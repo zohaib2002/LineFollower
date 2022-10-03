@@ -4,7 +4,7 @@ int LS = A4;
 int RS = A5;
 
 AF_DCMotor motor1(4); //sag motor
-AF_DCMotor motor2(3); //sol motor //left
+AF_DCMotor motor2(3); //sol , motor //left
 
 int LSVAL = 0;
 int RSVAL = 0;
